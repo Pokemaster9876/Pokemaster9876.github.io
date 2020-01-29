@@ -79,6 +79,24 @@ body {
     background: linear-gradient(180deg, #fce72a 0%, rgb(246, 193, 47) 80%, rgb(246, 166, 47) 100%);
 }
 
+.bg-gradient4 span,
+.bg-gradient4:before {
+    background: #fce72a;
+    background: linear-gradient(180deg, #fc2a2a 0%, rgb(246, 47, 47) 80%, rgb(246, 47, 47) 100%);
+}
+
+.or span,
+.or:before {
+    background: #fca12a;
+    background: linear-gradient(180deg, #fc892a 0%, rgb(246, 143, 47) 80%, rgb(246, 137, 47) 100%);
+}
+
+.gr span,
+.gr:before {
+    background: #2afc3c;
+    background: linear-gradient(180deg, #2afc5f 0%, rgb(47, 246, 90) 80%, rgb(47, 246, 113) 100%);
+}
+
 .wrapper {
     margin: 4% auto;
     text-align: center;
